@@ -24,7 +24,7 @@ React, Tailwind css, react-router, Recharts(chart library)
 5. Used context api for global state management (dark mode feature).
 6. Handling functionality for transaction table and settings form.
 
-## Demo URL :
+## Demo URL : https://dodo-frontend-assignment.vercel.app/
 
 
 
