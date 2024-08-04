@@ -1,3 +1,4 @@
+# dodo-assignment
 # React + TypeScript + Vite
 
 This project is bootstraped using Vite (React+typescript)
@@ -25,7 +26,3 @@ React, Tailwind css, react-router, Recharts(chart library)
 6. Handling functionality for transaction table and settings form.
 
 ## Demo URL : https://dodo-frontend-assignment.vercel.app/
-
-
-
-# dodo-assignment

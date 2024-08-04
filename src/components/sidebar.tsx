@@ -222,12 +222,12 @@ function SidebarView() {
         <SidebarSection.Item
           label={"Documentation"}
           icon={<FileDocIcon />}
-          url="https://immanu10.github.io/"
+          url="https://github.com/Rohitbaghel"
         />
         <SidebarSection.Item
           label={"Help Center"}
           icon={<HelpCenterIcon />}
-          url="https://immanu10.github.io/"
+          url="https://github.com/Rohitbaghel"
         />
       </SidebarSection>
       <div className="mt-16 pb-8">
