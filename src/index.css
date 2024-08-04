@@ -7,3 +7,5 @@
     @apply bg-background font-sans text-foreground dark:bg-background-dark dark:text-foreground-dark;
   }
 }
+
+.container { height: 100vh; display: grid; grid-template-columns: 1fr; } @media (min-width: 768px) { .container { grid-template-columns: 248px 1fr; } }
